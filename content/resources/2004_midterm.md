@@ -6,8 +6,12 @@ description: This resource consists of information about pharmokinetics, recepto
   drugs, congestive heart failure, nitric oxide, immunopharmacology (transplant immunosuppression),
   movement disorders (standaert), depression (standaert), anxiolytics/anticonvulsants
   (standaert), and miscellaneous case presentations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/fbb9cb188c918956edcb8eb31c8a6a1f_2004_midterm.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/fbb9cb188c918956edcb8eb31c8a6a1f_2004_midterm.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 2004_midterm.pdf
 uid: fbb9cb18-8c91-8956-edcb-8eb31c8a6a1f

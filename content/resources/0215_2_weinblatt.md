@@ -5,8 +5,13 @@ description: 'This resource includes information regarding overview of anti-infl
   (non-steroidal anti-inflammatory drugs), COX-2 selective inhibitors, glucocorticoids,
   anti-cytokine agents and pharmacology of the eicosanoids ? summary of important
   drugs.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/4e25135a3fc16447af325442e356daf0_0215_2_weinblatt.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/4e25135a3fc16447af325442e356daf0_0215_2_weinblatt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 0215_2_weinblatt.pdf
 uid: 4e25135a-3fc1-6447-af32-5442e356daf0

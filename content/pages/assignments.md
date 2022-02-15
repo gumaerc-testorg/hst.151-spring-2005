@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9fa31ec0-ffc9-2a54-84c6-e47fa61f11dc
 ---
@@ -129,7 +132,7 @@ Due date is on session 12.
 
 {{< tableopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Suggested Drugs for Evaluation
 {{< thclose >}}
 

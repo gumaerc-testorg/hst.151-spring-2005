@@ -4,8 +4,12 @@ description: 'This resource includes information about the clinical scenario: a 
   general endotracheal anesthetic, pharmacokinetics and pharmacodynamics of intravenous
   propofol, uptake of inhaled isoflurane and pharmacodynamics of muscle relaxants
   (neuromuscular blockers).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/f9617db05438b919c456425b7069ff50_clinical_pharma.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/f9617db05438b919c456425b7069ff50_clinical_pharma.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: clinical_pharma.pdf
 uid: f9617db0-5438-b919-c456-425b7069ff50

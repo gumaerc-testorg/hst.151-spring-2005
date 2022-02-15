@@ -4,8 +4,12 @@ description: This resource provides a list of drugs that students should know by
   for the final examination. i.e. adrenergic and cholinergic drugs and antagonists,
   local anesthetics, antidysrhythmic drugs, inotropes, vasoactive drugs, immunosuppressants
   and miscellaneous drugs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/2a379a2d5a4d88ac5b1cfb50abd858f4_midterm_drug.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/2a379a2d5a4d88ac5b1cfb50abd858f4_midterm_drug.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: midterm_drug.pdf
 uid: 2a379a2d-5a4d-88ac-5b1c-fb50abd858f4

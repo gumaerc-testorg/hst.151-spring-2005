@@ -5,8 +5,13 @@ description: This resource includes information about introduction to pharmacolo
   strategies, aminoglycosides, tetracycline, erythromycin, vancomycin, fluoroquinolones,
   general principles of antimicrobial use, antimicrobial resistance in the new millennium
   and specific examples of resistance to antimicrobial drugs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/262b5e61fb33b8a4707ee61bac7ae9af_ln2425_antimic.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/262b5e61fb33b8a4707ee61bac7ae9af_ln2425_antimic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ln2425_antimic.pdf
 uid: 262b5e61-fb33-b8a4-707e-e61bac7ae9af

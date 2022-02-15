@@ -5,8 +5,13 @@ description: This resource includes information about overview and history of so
   types of organ graft rejection, molecular basis of immune response and immunosuppression,
   types of immunosuppressive agents and sites of action, newer agents, relationship
   between immunosuppressive and cancer chemotherapy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/c7e3beab4c9c66883eb264cb61f2615d_0222_2_spitzer.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/c7e3beab4c9c66883eb264cb61f2615d_0222_2_spitzer.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 0222_2_spitzer.pdf
 uid: c7e3beab-4c9c-6688-3eb2-64cb61f2615d

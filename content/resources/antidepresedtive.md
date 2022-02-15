@@ -7,8 +7,13 @@ description: This resource includes information about depression, diagnosis of d
   reuptake inhibitors (SSRI?s), some commonly used SSRI?s, bupropion, MAO inhibitors,
   treatment of depression, sedatives and hypnotics, GABA (?-aminobutyric acid), barbiturates,
   clinical use of sedatives, tolerance, cross-tolerance, and addiction.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-151-principles-of-pharmacology-spring-2005/97c0402fbb590f3adad6f59edffdef5e_antidepresedtive.pdf
+file: /media/courses/hst-151-principles-of-pharmacology-spring-2005/97c0402fbb590f3adad6f59edffdef5e_antidepresedtive.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: antidepresedtive.pdf
 uid: 97c0402f-bb59-0f3a-dad6-f59edffdef5e
