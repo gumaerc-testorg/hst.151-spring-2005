@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9fa31ec0-ffc9-2a54-84c6-e47fa61f11dc
 resourcetype: Document
 title: 0310_folate_nt2.pdf
 uid: 86753e7b-b1ff-5ad1-dd28-2b73c4b98ea0

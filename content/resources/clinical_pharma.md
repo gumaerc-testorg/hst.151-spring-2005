@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd82f4d7-c304-9db7-b38e-d63a9fdb079a
 resourcetype: Document
 title: clinical_pharma.pdf
 uid: f9617db0-5438-b919-c456-425b7069ff50

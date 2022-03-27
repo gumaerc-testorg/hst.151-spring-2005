@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd82f4d7-c304-9db7-b38e-d63a9fdb079a
 resourcetype: Document
 title: 2004_midterm.pdf
 uid: fbb9cb18-8c91-8956-edcb-8eb31c8a6a1f

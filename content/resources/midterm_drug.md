@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd82f4d7-c304-9db7-b38e-d63a9fdb079a
 resourcetype: Document
 title: midterm_drug.pdf
 uid: 2a379a2d-5a4d-88ac-5b1c-fb50abd858f4

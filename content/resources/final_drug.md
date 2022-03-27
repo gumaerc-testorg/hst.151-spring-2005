@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd82f4d7-c304-9db7-b38e-d63a9fdb079a
 resourcetype: Document
 title: final_drug.pdf
 uid: 5481807d-9978-c67b-0f93-10c36580b000
