@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The assignments section discusses about the three assignments which students
+  must complete in this class - a case discussion, a drug evaluation report, and a
+  problem set.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -53,7 +56,7 @@ Below is a list of the case topics:
 24.  Drug Abuse  
      
 
-Detailed description of Case Topics ([PDF]({{< baseurl >}}/resources/case_topic_desc))
+Detailed description of Case Topics ({{% resource_link e3c66c49-298f-ddf4-c80e-391c95b813a4 "PDF" %}})
 
 Following are several examples of student case discussion presentations. Files are courtesy of the respective authors, used with permission.
 
@@ -84,10 +87,10 @@ Sulfasalazine
 Paul Dieffenbach and Ali Shoeb
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/0208_sulfa_notes))
+({{% resource_link 29c3a887-cba6-79bb-f402-9c22cc1e0704 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/0208_sulfa_slide))
+({{% resource_link feededab-db0f-7db2-d910-03f1306c9f8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,10 +102,10 @@ Oral Hypoglycemics
 Lynn Punnoose and Erika Wagner
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/0310_oral_notes))
+({{% resource_link ed31b2bd-074e-8d16-559a-f3b44951ab6c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/0310_oral_slides))
+({{% resource_link 2175e959-1523-c202-09ce-0a01b3c9c9f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -479,6 +482,6 @@ repaglinide
 {{< anchor "problem_set" >}}{{< /anchor >}}Problem Set
 ------------------------------------------------------
 
-Problem Set ([PDF]({{< baseurl >}}/resources/ps2005))
+Problem Set ({{% resource_link f2b3cb74-3a5e-6cbf-d180-8913b4d088d3 "PDF" %}})
 
-Solution ([PDF]({{< baseurl >}}/resources/ps2005_soln))
+Solution ({{% resource_link 627af598-4b3f-a76b-979e-46caab679156 "PDF" %}})

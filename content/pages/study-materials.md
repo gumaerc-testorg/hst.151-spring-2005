@@ -1,29 +1,31 @@
 ---
 content_type: page
+description: The study material contains the exam reviews of midterm and final exam,
+  useful references and selected periodicals for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: bd82f4d7-c304-9db7-b38e-d63a9fdb079a
 ---
 
-Clinical Pharmacology in the Operating Room ([PDF]({{< baseurl >}}/resources/clinical_pharma))
+Clinical Pharmacology in the Operating Room ({{% resource_link f9617db0-5438-b919-c456-425b7069ff50 "PDF" %}})
 
 Exam Reviews
 ------------
 
 ### Midterm Exam
 
-Review ([PDF]({{< baseurl >}}/resources/2005_midterm-1))
+Review ({{% resource_link 0b487dfd-95ce-bb14-efd2-3db40be34b04 "PDF" %}})
 
-Drug List ([PDF]({{< baseurl >}}/resources/midterm_drug))
+Drug List ({{% resource_link 2a379a2d-5a4d-88ac-5b1c-fb50abd858f4 "PDF" %}})
 
 ### Final Exam
 
-Review ([PDF 1 - 1.3 MB]({{< baseurl >}}/resources/2005_final_1)) ([PDF 2]({{< baseurl >}}/resources/2005_final_2))
+Review ({{% resource_link 03af2e56-fa3a-a4a7-672d-1d530aebd67c "PDF 1 - 1.3 MB" %}}) ({{% resource_link 2078b257-60ef-4194-6b68-92352886d218 "PDF 2" %}})
 
-Drug List ([PDF]({{< baseurl >}}/resources/final_drug))
+Drug List ({{% resource_link 5481807d-9978-c67b-0f93-10c36580b000 "PDF" %}})
 
-2004 Midterm Exam Review ([PDF]({{< baseurl >}}/resources/2004_midterm))
+2004 Midterm Exam Review ({{% resource_link fbb9cb18-8c91-8956-edcb-8eb31c8a6a1f "PDF" %}})
 
 Useful References
 -----------------

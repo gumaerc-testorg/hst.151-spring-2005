@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section lists the lectures as per the topics covered
+  in the course along with their instructors.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ INSTRUCTORS
 {{< tdopen >}}
 
 
-Introduction ([PDF]({{< baseurl >}}/resources/0201_1_rosow))
+Introduction ({{% resource_link d22c2c24-5a29-ad46-8191-5ce4c8eaab80 "PDF" %}})
 
 Receptors / Dose-Response
 
@@ -56,9 +58,9 @@ Prof. Gary Strichartz
 {{< tdopen >}}
 
 
-Pharmacokinetics I ([PDF]({{< baseurl >}}/resources/ln34hms3275))
+Pharmacokinetics I ({{% resource_link b41c9ac2-c9d0-11bd-ec3f-d4debe2b6a4b "PDF" %}})
 
-Pharmacokinetics II ([PDF]({{< baseurl >}}/resources/ln34hms3275))
+Pharmacokinetics II ({{% resource_link b41c9ac2-c9d0-11bd-ec3f-d4debe2b6a4b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,7 +86,7 @@ Interpreting Clinical Literature
 
 Cholinergic Pharmacology
 
-Case: Anticholinesterase ([PDF]({{< baseurl >}}/resources/0203_case_exampl))
+Case: Anticholinesterase ({{% resource_link f10112f3-7cc7-179f-c2a8-c01d5b954cad "PDF" %}})
 
 
 {{< tdclose >}}
@@ -136,7 +138,7 @@ Students
 {{< tdopen >}}
 
 
-Autonomic Pharmacology I and II ([PDF]({{< baseurl >}}/resources/ln1112hms5008))
+Autonomic Pharmacology I and II ({{% resource_link dc952839-de37-169d-ff78-b4f0d0a5b929 "PDF" %}})
 
 Cases: Pheochromocytoma, Asthma
 
@@ -162,7 +164,7 @@ Students
 
 Local Anesthetics
 
-Antidysrhythmics ([PDF]({{< baseurl >}}/resources/ln1112hms5008))
+Antidysrhythmics ({{% resource_link dc952839-de37-169d-ff78-b4f0d0a5b929 "PDF" %}})
 
 Cases: Poison Control, Cocaine
 
@@ -190,7 +192,7 @@ Students
 
 Pharmacokinetics III
 
-Antiinflammatory Drugs ([PDF]({{< baseurl >}}/resources/0215_2_weinblatt))
+Antiinflammatory Drugs ({{% resource_link 4e25135a-3fc1-6447-af32-5442e356daf0 "PDF" %}})
 
 Case: Glaucoma
 
@@ -216,9 +218,9 @@ Students
 {{< tdopen >}}
 
 
-Vasoactive Drugs I ([PDF]({{< baseurl >}}/resources/0216_1_baker))
+Vasoactive Drugs I ({{% resource_link 86fa8888-fa93-9dbd-61f3-5bc6769e8fb2 "PDF" %}})
 
-Vasoactive Drugs II: Heart Failure ([PDF]({{< baseurl >}}/resources/0216_2_baker))
+Vasoactive Drugs II: Heart Failure ({{% resource_link 95839558-53e9-a242-6e4b-7ae39365cd8f "PDF" %}})
 
 Cases: Pharmacogenetics, Thyroid Disease
 
@@ -244,7 +246,7 @@ Students
 {{< tdopen >}}
 
 
-Lipid Lowering Drugs ([PDF]({{< baseurl >}}/resources/0217_1_lees))
+Lipid Lowering Drugs ({{% resource_link 9f4dcb5a-3a51-bef3-94b3-ef132611717b "PDF" %}})
 
 Cases: Placental Transfer, Gout
 
@@ -270,7 +272,7 @@ Students
 
 Antihistamines
 
-Immunosuppression for Solid Organ Transplantation ([PDF]({{< baseurl >}}/resources/0222_2_spitzer))
+Immunosuppression for Solid Organ Transplantation ({{% resource_link c7e3beab-4c9c-6688-3eb2-64cb61f2615d "PDF" %}})
 
 Cases: Antiemetics, Geriatric Pharmacology
 
@@ -308,9 +310,9 @@ Dr. Daniel Kohane
 {{< tdopen >}}
 
 
-Neuropharmacology I: Drugs for Movement Disorders ([PDF]({{< baseurl >}}/resources/parkinson))
+Neuropharmacology I: Drugs for Movement Disorders ({{% resource_link d0f6b7a6-adb4-b372-0a02-d4fb81db7a26 "PDF" %}})
 
-Nitric Oxide ([PDF]({{< baseurl >}}/resources/ln15ahms2066))
+Nitric Oxide ({{% resource_link f30a1567-2e0d-e165-2f98-f1d1bcb6a60d "PDF" %}})
 
 Cases: Placebo, Renal Failure
 
@@ -336,9 +338,9 @@ Students
 {{< tdopen >}}
 
 
-Neuropharmacology II: Anxiolytics and Antidepressants ([PDF]({{< baseurl >}}/resources/antidepresedtive))
+Neuropharmacology II: Anxiolytics and Antidepressants ({{% resource_link 97c0402f-bb59-0f3a-dad6-f59edffdef5e "PDF" %}})
 
-Neuropharmacology III: Anticonvulsants ([PDF]({{< baseurl >}}/resources/anticonvulsants))
+Neuropharmacology III: Anticonvulsants ({{% resource_link 950eaeeb-f2ad-77da-1983-f0b2208839de "PDF" %}})
 
 Cases: Lithium, Alcohol
 
@@ -364,7 +366,7 @@ Students
 {{< tdopen >}}
 
 
-Antimicrobials I and II ([PDF]({{< baseurl >}}/resources/ln2425_antimic))
+Antimicrobials I and II ({{% resource_link 262b5e61-fb33-b8a4-707e-e61bac7ae9af "PDF" %}})
 
 Cases: Drug Allergy, Migraines
 
@@ -388,7 +390,7 @@ Students
 {{< tdopen >}}
 
 
-Chemotherapy I and II ([PDF]({{< baseurl >}}/resources/ln2627hms5885))
+Chemotherapy I and II ({{% resource_link a5857f53-3f86-1761-58e5-75b0fe525788 "PDF" %}})
 
 Cases: Folate, Oral Hypoglycemics
 
@@ -412,7 +414,7 @@ Students
 {{< tdopen >}}
 
 
-Opioids I and II ([PDF]({{< baseurl >}}/resources/ln2829ahms7471))
+Opioids I and II ({{% resource_link 123437ec-4cf9-b125-1172-96469247bf7c "PDF" %}})
 
 Cases: Cancer - Analgesia, Drug Abuse
 
