@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Glass vials and bottles containing chemotherapy drugs.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-151s05-th.jpg
 uid: fdfca2f0-a30f-7b53-3197-0270aaecdd87
 ---
 New image Upload
-

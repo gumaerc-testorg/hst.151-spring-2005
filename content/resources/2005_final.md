@@ -5,6 +5,7 @@ file: /courses/hst-151-principles-of-pharmacology-spring-2005/394e70c082bb20ec27
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2005_final.pdf
 uid: 394e70c0-82bb-20ec-27e0-753f0e309181
 ---
 This resource consists of 22 questions and answers for final exam.
-

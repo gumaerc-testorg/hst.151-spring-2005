@@ -9,6 +9,7 @@ file: /courses/hst-151-principles-of-pharmacology-spring-2005/262b5e61fb33b8a470
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ln2425_antimic.pdf
 uid: 262b5e61-fb33-b8a4-707e-e61bac7ae9af
 ---
 This resource includes information about introduction to pharmacologic principles of antimicrobial therapy, penicillins, cephalosporins, other beta-lactam strategies, aminoglycosides, tetracycline, erythromycin, vancomycin, fluoroquinolones, general principles of antimicrobial use, antimicrobial resistance in the new millennium and specific examples of resistance to antimicrobial drugs.
-

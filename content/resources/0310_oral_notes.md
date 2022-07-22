@@ -7,6 +7,7 @@ file: /courses/hst-151-principles-of-pharmacology-spring-2005/ed31b2bd074e8d1655
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 0310_oral_notes.pdf
 uid: ed31b2bd-074e-8d16-559a-f3b44951ab6c
 ---
 This resource includes information about case description, diabetes mellitus type II, non-pharmacologic interventions, treatment strategies with oral hypoglycemics, insulin monotherapy.
-

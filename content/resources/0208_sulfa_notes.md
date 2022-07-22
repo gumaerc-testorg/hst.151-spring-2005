@@ -7,6 +7,7 @@ file: /courses/hst-151-principles-of-pharmacology-spring-2005/29c3a887cba679bbf4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 0208_sulfa_notes.pdf
 uid: 29c3a887-cba6-79bb-f402-9c22cc1e0704
 ---
 This resource includes information about Clinical Case of Ulcerative Colitis, Mesalamine Pharmacodynamics, Mesalamine Pharmacokinetics and alternative mesalamine formulations.
-
