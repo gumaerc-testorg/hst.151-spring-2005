@@ -24,7 +24,7 @@
     "website": "hst-151-principles-of-pharmacology-spring-2005"
   },
   "course_title": "Principles of Pharmacology",
-  "course_description": "The object of the course is to teach students an approach to the study of pharmacologic agents. It is not intended to be a review of the pharmacopoeia. The focus is on the basic principles of biophysics, biochemistry and physiology, as related to the mechanisms of drug action, biodistribution and metabolism. The course consists of lectures and student-led case discussions. Topics covered include: mechanisms of drug action, dose-response relations, pharmacokinetics, drug delivery systems, drug metabolism, toxicity of pharmacological agents, drug interaction and substance abuse. Selected agents and classes of agents are examined in detail.\n\n##### {{< anchor \"lecturers\" >}}{{< /anchor >}}Lecturers\n\nProf. Keith Baker\n\nDr. Mark Dershwitz\n\nHarold Demonaco\n\nDr. Daniel Kohane\n\nDr. Donald Kufe\n\nProf. Robert Langer\n\nDr. Robert Lees\n\nDr. Robert Rubin\n\nDr. Jeremy Ruskin\n\nProf. Thomas Spitzer\n\nProf. Carol Walsh\n\nDr. Michael Weinblatt\n\nDr. Warren Zapol\n",
+  "course_description": "The object of the course is to teach students an approach to the study of pharmacologic agents. It is not intended to be a review of the pharmacopoeia. The focus is on the basic principles of biophysics, biochemistry and physiology, as related to the mechanisms of drug action, biodistribution and metabolism. The course consists of lectures and student-led case discussions. Topics covered include: mechanisms of drug action, dose-response relations, pharmacokinetics, drug delivery systems, drug metabolism, toxicity of pharmacological agents, drug interaction and substance abuse. Selected agents and classes of agents are examined in detail.",
   "department_numbers": [
     "HST"
   ],
@@ -41,6 +41,7 @@
     "Problem Sets with Solutions",
     "Written Assignments"
   ],
-  "site_uid": "2d1582bc-0964-4f39-b1bc-17e5bedb9fdf",
+  "site_uid": "fff8a810-c422-422f-9c4b-23a1ea41027b",
+  "short_id": "hst.151-spring-2005",
   "title": "Course Metadata"
 }
