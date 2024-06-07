@@ -7,6 +7,7 @@ description: This resource includes information about the means by which a drug 
   advantages of porous aerosols for inhalation therapy, advantages and disadvantages
   of implanted pumps and transdermal systems.
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/0f84cc2ea130aa05a330e73105ff7c5e_0215_1_langer.pdf
+file_size: 611694
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
