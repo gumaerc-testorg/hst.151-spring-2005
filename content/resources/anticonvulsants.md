@@ -4,6 +4,7 @@ description: This resource includes information about what are seizures, classif
   of seizures, drugs for treatment of partial seizures or generalized tonic-clonic
   seizures and principles for the management of epilepsy.
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/950eaeebf2ad77da1983f0b2208839de_anticonvulsants.pdf
+file_size: 76098
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
