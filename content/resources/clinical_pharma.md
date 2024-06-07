@@ -5,6 +5,7 @@ description: 'This resource includes information about the clinical scenario: a 
   propofol, uptake of inhaled isoflurane and pharmacodynamics of muscle relaxants
   (neuromuscular blockers).'
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/f9617db05438b919c456425b7069ff50_clinical_pharma.pdf
+file_size: 137090
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

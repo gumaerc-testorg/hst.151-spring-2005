@@ -8,6 +8,7 @@ description: 'This resource includes information about folate (vitamin B9), coba
   case, causes of folate deficiency, clinical consequences of folate deficiency, pharmacology
   of folate: chemotherapy, antibacterials and TMP synthesis.'
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/b0016283cc87a30552175c838750b1d0_0310_folate_sld.pdf
+file_size: 275719
 file_type: application/pdf
 learning_resource_types:
 - Assignments

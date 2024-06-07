@@ -4,6 +4,7 @@ description: This resource includes information about Clinical Case of Ulcerativ
   Colitis, Mesalamine Pharmacodynamics, Mesalamine Pharmacokinetics and alternative
   mesalamine formulations.
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/29c3a887cba679bbf4029c22cc1e0704_0208_sulfa_notes.pdf
+file_size: 119006
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/fdfca2f0a30f7b5331970270aaecdd87_hst-151s05-th.jpg
+file_size: 5799
 file_type: image/jpeg
 image_metadata:
   caption: "Chemotherapy drugs in vials and an IV bottle. (Photo by Bill Branson.\

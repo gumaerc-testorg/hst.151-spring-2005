@@ -8,6 +8,7 @@ description: This resource includes information about depression, diagnosis of d
   treatment of depression, sedatives and hypnotics, GABA (?-aminobutyric acid), barbiturates,
   clinical use of sedatives, tolerance, cross-tolerance, and addiction.
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/97c0402fbb590f3adad6f59edffdef5e_antidepresedtive.pdf
+file_size: 181970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
