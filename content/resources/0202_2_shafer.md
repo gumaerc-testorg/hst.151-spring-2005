@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information about summaries of pharmacokinetic
   concepts presented in lecture and exercise from the instructor.
-file: /courses/hst-151-principles-of-pharmacology-spring-2005/a7687af6e18fde50a8acbe5378cc5442_0202_2_shafer.pdf
+file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/a7687af6e18fde50a8acbe5378cc5442_0202_2_shafer.pdf
 file_size: 155696
 file_type: application/pdf
 learning_resource_types:
