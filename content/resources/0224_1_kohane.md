@@ -4,7 +4,7 @@ description: This resource includes information about the need of drug developme
   characteristics of the hypothetical ideal solution, ways of achieving, new drugs
   and drug combinations, or new ways of using old drugs, key concepts and how they
   relate (e.g. in choosing a drug or delivery system) and specific examples.
-file: /courses/hst-151-principles-of-pharmacology-spring-2005/98e5bd07f63d37618bb361f8997ad3db_0224_1_kohane.pdf
+file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/98e5bd07f63d37618bb361f8997ad3db_0224_1_kohane.pdf
 file_size: 162851
 file_type: application/pdf
 learning_resource_types:
