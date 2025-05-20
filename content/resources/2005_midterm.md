@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource consists of 18 questions and answers for final exam.
-file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/146a098e28c025b3a3b102eab8ce6a06_2005_midterm.pdf
+file: /courses/hst-151-principles-of-pharmacology-spring-2005/146a098e28c025b3a3b102eab8ce6a06_2005_midterm.pdf
 file_size: 219407
 file_type: application/pdf
 learning_resource_types:
