@@ -5,7 +5,7 @@ description: 'This resource includes information about organophosphate poisoning
   AchE inhibitors: reversible versus irreversible, inhibition by organophosphate:
   "Aging", pharmacokinetics of organophosphates, effects of acute O/P overdose, treatment,
   therapeutic use of AchE inhibitors and summary of key points.'
-file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/f10112f37cc7179fc2a8c01d5b954cad_0203_case_exampl.pdf
+file: /courses/hst-151-principles-of-pharmacology-spring-2005/f10112f37cc7179fc2a8c01d5b954cad_0203_case_exampl.pdf
 file_size: 180132
 file_type: application/pdf
 learning_resource_types:

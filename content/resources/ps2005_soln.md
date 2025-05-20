@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes answers for problem set 2005.
-file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/627af5984b3fa76b979e46caab679156_ps2005_soln.pdf
+file: /courses/hst-151-principles-of-pharmacology-spring-2005/627af5984b3fa76b979e46caab679156_ps2005_soln.pdf
 file_size: 177374
 file_type: application/pdf
 learning_resource_types:

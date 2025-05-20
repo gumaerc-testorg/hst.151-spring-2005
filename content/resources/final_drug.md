@@ -5,7 +5,7 @@ description: This resource provides a list of drugs that students should know by
   lipid lowering drugs, antineoplastics, antimicrobials, psychoactive drugs, drugs
   for movement disorders and seizures, opioids and antagonists and other miscellaneous
   drugs.
-file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/5481807d9978c67b0f9310c36580b000_final_drug.pdf
+file: /courses/hst-151-principles-of-pharmacology-spring-2005/5481807d9978c67b0f9310c36580b000_final_drug.pdf
 file_size: 124024
 file_type: application/pdf
 learning_resource_types: []

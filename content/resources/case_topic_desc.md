@@ -6,7 +6,7 @@ description: This resource includes information about organophosphate poisoning,
   analgesia - placebo response, geriatric pharmacology, antiemetics, acute renal failure,
   lithium toxicity, alcohol, allergy, migraine, folate, oral hypoglycemics, analgesia
   - terminal cancer, and drug abuse
-file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/e3c66c49298fddf4c80e391c95b813a4_case_topic_desc.pdf
+file: /courses/hst-151-principles-of-pharmacology-spring-2005/e3c66c49298fddf4c80e391c95b813a4_case_topic_desc.pdf
 file_size: 131273
 file_type: application/pdf
 learning_resource_types:
