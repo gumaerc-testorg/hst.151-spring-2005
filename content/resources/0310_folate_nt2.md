@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information about folate uptake, biochemical activities
   of folate and causes of folate deficiency.
-file: /courses/hst-151-principles-of-pharmacology-spring-2005/86753e7bb1ff5ad1dd282b73c4b98ea0_0310_folate_nt2.pdf
+file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/86753e7bb1ff5ad1dd282b73c4b98ea0_0310_folate_nt2.pdf
 file_size: 192549
 file_type: application/pdf
 learning_resource_types:

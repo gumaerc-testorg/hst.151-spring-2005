@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes information on dietary folate, clinical consequences
   of folate deficiency, pharmacology of folate: folate analogues, pharmacology of
   folate: PABA analogues.'
-file: /courses/hst-151-principles-of-pharmacology-spring-2005/bd7ecfedee2962e1eb23c26acd721700_0310_folate_nt1.pdf
+file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/bd7ecfedee2962e1eb23c26acd721700_0310_folate_nt1.pdf
 file_size: 144354
 file_type: application/pdf
 learning_resource_types:
