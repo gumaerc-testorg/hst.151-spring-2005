@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information about  movement disorders, pharmacological
   approaches to treatment of parkinson?s disease, parkinson?s disease, biochemistry
   of dopamine and treatment of parkinson?s disease.
-file: /courses/hst-151-principles-of-pharmacology-spring-2005/d0f6b7a6adb4b3720a02d4fb81db7a26_parkinson.pdf
+file: /ol-ocw-studio-app/courses/hst-151-principles-of-pharmacology-spring-2005/d0f6b7a6adb4b3720a02d4fb81db7a26_parkinson.pdf
 file_size: 183168
 file_type: application/pdf
 learning_resource_types:
