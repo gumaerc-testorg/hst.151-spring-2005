@@ -6,7 +6,8 @@ file_size: 5799
 file_type: image/jpeg
 image_metadata:
   caption: "Chemotherapy drugs in vials and an IV bottle. (Photo by Bill Branson.\
-    \ Courtesy of\_[National Cancer Institute Visuals Online](http://visualsonline.cancer.gov/).)"
+    \ Courtesy of\_{{% resource_link \"6e7aadaf-b8a7-4469-9f7d-c8289635b9c8\" \"National\
+    \ Cancer Institute Visuals Online\" %}}.)"
   credit: ''
   image-alt: Glass vials and bottles containing chemotherapy drugs.
 learning_resource_types: []
